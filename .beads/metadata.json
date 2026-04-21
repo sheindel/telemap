@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "telemap",
+  "project_id": "8449409c-4541-4213-87dd-ad02d3e6abc9"
+}
