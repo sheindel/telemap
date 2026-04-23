@@ -13,9 +13,12 @@
   <header class="shell-header">
     <div>
       <p class="brand-eyebrow">Telemap</p>
-      <h1>Operations Console</h1>
+      <h1>Telecom Infrastructure Planner</h1>
     </div>
-    <p class="shell-blurb">Unified navigation and workspace regions for map and data workflows.</p>
+    <p class="shell-blurb">
+      Plan copper and fiber topology from real floor plans, track capacity, and simulate cabling runs
+      before deployment.
+    </p>
   </header>
 
   <div class="shell-body">
